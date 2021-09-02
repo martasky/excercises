@@ -24,8 +24,3 @@ const lastname = name.substring(indexlast + 1);
 console.log(lastname);
 
 console.log(firstName);
-/* 
-console.log(firstName);
-console.log(middleName);
-console.log(lastName);
- */

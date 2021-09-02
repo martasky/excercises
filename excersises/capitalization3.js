@@ -8,7 +8,6 @@ const name = unknownName.toLowerCase();
 
 const newName =
   name.substring(0, 2) + name[2].toUpperCase() + name.substring(3);
-/* name.substring(0, 2) + name[2].toUpperCase() + name.substring(3); */
 console.log(newName);
 
 /* const name = "saSia";
